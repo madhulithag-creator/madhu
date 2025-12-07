@@ -46,7 +46,7 @@ You bring so much joy, laughter into my life. You deserve all the magic, all the
   },
 
   chillZone: {
-    heading: "Birthday Vibes Playlist 🎵",
+    heading: "Our Playlist 🎵",
     subheading: "Songs to celebrate your special day",
     chooseTrackHint: "Choose your birthday soundtrack ✨",
     continueButton: "Continue to Birthday Surprises ✨",
