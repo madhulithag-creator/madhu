@@ -51,9 +51,9 @@ You bring so much joy, laughter into my life. You deserve all the magic, all the
     chooseTrackHint: "Choose your birthday soundtrack ✨",
     continueButton: "Continue to Birthday Surprises ✨",
     tracks: [
-      { id: 1, title: "Beginning Middle End", caption: "Here's to making this year unforgettable 🌟" },
-      { id: 2, title: "Sada Nannu", caption: "Because today is all about YOU, babeeee! 👑" },
-      { id: 3, title: "Daylight(TS)", caption: "Every beat celebrates your beautiful heart 💖" },
+      { id: 1, title: "be mineeee", caption: "Here's to making this year unforgettable 🌟" },
+      { id: 2, title: "<33", caption: "Because today is all about YOU, babeeee! 👑" },
+      { id: 3, title: "***", caption: "Every beat celebrates your beautiful heart 💖" },
     ]
   },
 
@@ -106,7 +106,7 @@ You bring so much joy, laughter into my life. You deserve all the magic, all the
     // Signature and actions
     typedDefault: "Forever Yours, Happy Birthday! 💕🎂",
     experienceAgain: "Experience Birthday Magic Again ✨",
-    sendKissButton: "Send Birthday Kisses 💋",
+    sendKissButton: "Birthday Kisses 💋",
     dateLocale: "en-US",
     
     // Decorative elements
