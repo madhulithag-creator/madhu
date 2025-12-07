@@ -1,6 +1,6 @@
 const textConfig = {
   landing: {
-    title: "Happy Birthday, Babyyyy! 🎂✨",
+    title: "Happy Birthday, Babyyy! 🎂✨",
     subtitle: "Today is all about celebrating the most amazing person in my world. I've created something magical just for you on your special day...",
     lastLine: "Ready for your birthday surprise?",
     button: "Lessss Gooo!!!!!!",
