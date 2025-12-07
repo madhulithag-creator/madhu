@@ -28,7 +28,7 @@ You bring so much joy, laughter into my life. You deserve all the magic, all the
     heading: "It's Cake Time! 🎂",
     subheading: "Make your birthday wish come true!",
     instructions: "Draw a line across the middle of the cake to cut it ✂️",
-    cuttingPrompt: "Cut your birthday cake, birthday girl! 🔪",
+    cuttingPrompt: "Cut your birthday cake, birthday boyyyyy! 🔪",
     dragHint: "Drag here to cut! ✂️",
     progressText: "Cutting Progress",
     encouragementText: "Almost there!",
