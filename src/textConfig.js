@@ -1,24 +1,25 @@
 const textConfig = {
   landing: {
-    title: "Happy Birthday, Babyyy! 🎂✨",
+    title: "Happy Birthday, Bangarammmmmm (6/1/6)!! 🎂✨",
     subtitle: "Today is all about celebrating the most amazing person in my world. I've created something magical just for you on your special day...",
     lastLine: "Ready for your birthday surprise?",
     button: "Lessss Gooo!!!!!!",
-    footer: "Made with endless love for your special day 💕",
+    footer: "Made with endless love for your special day(finally twentyyyyyyy!!!!!!!!!!) 💕",
   },
 
   // ActivityPage/Letter configuration
   letter: {
-    headerTitle: "A Birthday Love Letter 💌",
-    headerSubtitle: "From my heart to the birthday boyyyyy",
-    letterHeaderTitle: "To My Birthday Babeeee",
-    letterMessage: `My Cuddle Bear,
+    headerTitle: "A Birthday Letter 💌",
+    headerSubtitle: "From my heart to the birthdaygurllllllllll",
+    letterHeaderTitle: "To My Birthday Bujji <3",
+    letterMessage: `Dearest Chitti-Potti🥰,
 
-Today marks another year of your existence and I'm sad that I wasnt there with you to celebrate itttt!!!.
+Iroju me jhanmadhinam. You are a very very special person to me. My clumsyyy best friend👽. Also known as grahantarvasi kappa👻.
 
-You bring so much joy, laughter into my life. You deserve all the magic, all the dreams, and all the love this world has to offer. 💕`,
-    signature: "Forever yours 💕",
-    envelopeClickHint: "Click to open your birthday surprise",
+Bujji, from the bottom of my heart, thank you for being with me during my tough times. When the world turned its back on me, you were the only person who was there for me💕💟.`,   
+
+signature: "Forever yours 💕",
+    envelopeClickHint: "Click here for your birthday surprise",
     specialDeliveryText: "Birthday Special Delivery 🎂",
     continueButton: "Continue It ✨"
   },
@@ -33,7 +34,7 @@ You bring so much joy, laughter into my life. You deserve all the magic, all the
     progressText: "Cutting Progress",
     encouragementText: "Almost there!",
     makeWishTitle: "Time to Make a Wish! ✨",
-    wishPrompt: "Close your eyes and make your birthday wish! 🌟",
+    wishPrompt: "Close your eyes and make your first twentieth birthday wish bujjii! 🌟",
     wishInstructions: "Think of something wonderful for your new year!",
     wishButton: "I've Made My Wish! 💫",
     wishMadeText: "Wish Complete! 🎉",
@@ -51,9 +52,9 @@ You bring so much joy, laughter into my life. You deserve all the magic, all the
     chooseTrackHint: "Choose your birthday soundtrack ✨",
     continueButton: "Continue to Birthday Surprises ✨",
     tracks: [
-      { id: 1, title: "be mineeee", caption: "Here's to making this year unforgettable 🌟" },
-      { id: 2, title: "<33", caption: "Because today is all about YOU, babeeee! 👑" },
-      { id: 3, title: "***", caption: "Every beat celebrates your beautiful heart 💖" },
+      { id: 1, title: "Sweet heart", caption: "Here's to making this year unforgettable 🌟" },
+      { id: 2, title: "<3", caption: "Because today is all about YOU, sexyyyyyy gorreeee 👸" },
+      { id: 3, title: "Cutie Piee", caption: " guntaaa ee year aina epudu pongu meede undaali ani korukuntunnaa 💖" },
     ]
   },
 
@@ -73,9 +74,9 @@ You bring so much joy, laughter into my life. You deserve all the magic, all the
       stay: "Enjoy the wishes a bit longer"
     },
     cardMessages: [
-      "Happy Birthday to my amazing Bubu, the guy who fills my world with love and laughter every single day! 🎉❤️🎉💕",
-      "Another year of you being incredible, handsome, and perfect in all the little ways that make my heart melt! ✨",
-      "May this new year bring you endless joy, love, and all the dreams your heart desires!, my love 🌟💖"
+      "Happy Birthday to bangarammmmm. Do you know why I gifted you 'n' number of gifts this year? Its because I felt you deserve soo much. Just a birthday wish or cake cutting or a whats app status saripodhu. YOU DESERVE SOMETHING SPECIAL BECAUSE ITS YOUR SPECIAL YEAR.🎉❤️🎉💕",
+      "I hope you will realise so many best things and keep smiling and be dumb like you always are..🤭✨",
+      "May this new year bring you endless joy, love, and all the dreams your heart desires!,love 🌟💖"
     ]
   },
 
@@ -116,10 +117,10 @@ You bring so much joy, laughter into my life. You deserve all the magic, all the
     },
     
     // Letter content
-    letterGreeting: "My dearest birthday prince,",
+    letterGreeting: "My dearest birthday gorreyyyy,",
     letterParagraphs: [
-      "babe its always you. Iloveyou iloveyou to the moon and back buujuluuuu. I cant even imagive myself without you. I'm happy. I want to make you happy just like how you always choose me and how peace you make me feel.",
-      "Happy Birthday, my love. i promise I'll be good without any fights and I want to be with you.... 🎂✨. I want no more fights and a fresh start. I'm sorry for what I did. From your birthday I hope you eat well and you'll sleep well.<33333"
+      "Osey nijam ga chepali ante naku entha type chesina saripodhu how greatful and how thankful I am to have you in my life nijam ga. Especially these days are tough with hari and everything in my home but you comforted me in a way I felt like I can face these and these are not that big compared to what I faced.Thank you for being with me. You realy became my comfort place.💖💗",
+      "deyyyy edseyku avi chadivi...!!!! edo formality ki rasa leee(joke chesthuna I really mean everything that I said) I just want you to be cute sweet and please don't ever lose your innocence 😂. loveyou bujjuluuuu<33333."
       
     ],
     sealingNote: "Sealing will complete your birthday experience."
