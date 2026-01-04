@@ -88,7 +88,7 @@ signature: "Forever yours 💕",
     // Letter content
     title: "Final Birthday Love Letter",
     letterIcon: "💌",
-    stickerAlt: "Love Letter",
+    stickerAlt: "prema lekha",
     
     // Sealing animation
     sealingText: "Sealing your birthday wishes...",
@@ -100,12 +100,12 @@ signature: "Forever yours 💕",
     
     // Sealed state
     sealedTitle: "Birthday Letter Sealed with Love",
-    sealedSubtitle: "Happy Birthday, My Everything 🎉",
+    sealedSubtitle: "yappie burthadayyyy 🎉",
     sealedEmoji: "💝",
-    heartCount: 7,
+    heartCount: 100,
     
     // Signature and actions
-    typedDefault: "Forever Yours, Happy Birthday! 💕🎂",
+    typedDefault: "Happy Birthday! 💕🎂",
     experienceAgain: "Experience Birthday Magic Again ✨",
     sendKissButton: "Birthday Kisses 💋",
     dateLocale: "en-US",
