@@ -9,7 +9,7 @@ const textConfig = {
 
   // ActivityPage/Letter configuration
   letter: {
-    headerTitle: "A Birthday Letter 💌",
+    headerTitle: "A Burrrthaaday Lattaar 💌",
     headerSubtitle: "From my heart to the birthdaygurllllllllll",
     letterHeaderTitle: "To My Birthday Bujji <3",
     letterMessage: `Dearest Chitti-Potti🥰,
