@@ -18,7 +18,7 @@ Iroju me jhanmadhinam. You are a very very special person to me. My clumsyyy bes
 
 Bujji, from the bottom of my heart, thank you for being with me during my tough times. When the world turned its back on me, you were the only person who was there for me💕💟.`,   
 
-signature: "Forever yours 💕",
+signature: "thankyou bangarammmm!!!💕",
     envelopeClickHint: "Click here for your birthday surprise",
     specialDeliveryText: "Birthday Special Delivery 🎂",
     continueButton: "Continue It ✨"
@@ -29,7 +29,7 @@ signature: "Forever yours 💕",
     heading: "It's Cake Time! 🎂",
     subheading: "Make your birthday wish come true!",
     instructions: "Draw a line across the middle of the cake to cut it ✂️",
-    cuttingPrompt: "Cut your birthday cake, birthday boyyyyy! 🔪",
+    cuttingPrompt: "Cut your birthday cake, birthday gurllll! 🔪",
     dragHint: "Drag here to cut! ✂️",
     progressText: "Cutting Progress",
     encouragementText: "Almost there!",
@@ -47,7 +47,7 @@ signature: "Forever yours 💕",
   },
 
   chillZone: {
-    heading: "Our Playlist 🎵",
+    heading: "Playlist 🎵",
     subheading: "Songs to celebrate your special day",
     chooseTrackHint: "Choose your birthday soundtrack ✨",
     continueButton: "Continue to Birthday Surprises ✨",
